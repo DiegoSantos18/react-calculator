@@ -448,7 +448,7 @@ const App = () => {
           <p>
             <span>&copy; {anoAtual} Diego Dos Santos -
               <FontAwesomeIcon icon={faGithub} size="lg" />
-              <a href="https://github.com/DiegoSantos18/react-calculadora" target="_blank" rel="noreferrer">GitHub</a>
+              <a href="https://github.com/DiegoSantos18/react-calculator" target="_blank" rel="noreferrer">GitHub</a>
             </span>
           </p>
         </Footer>
