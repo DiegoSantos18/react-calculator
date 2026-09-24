@@ -1,5 +1,10 @@
 # React + TypeScript + Vite
 
+Acesse em: https://diegosantos18.github.io/react-calculator/
+![alt text](.ideas/readme/image-1.png)
+![alt text](.ideas/readme/image-2.png)
+![alt text](.ideas/readme/image-3.png)
+
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
